@@ -1,9 +1,6 @@
 # Election_Analysis
 Python Project
 
-# Election_Analysis
-Python Project
-
 ## Overview of Election Audit:
 This is an election audit of the tabulated results for a US congressional precinct in Colorado. The process for this audit is automated using Python. The goals are reporting the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. Later one, we also use the same process to determine the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highes turnout.
 
