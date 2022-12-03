@@ -24,10 +24,11 @@ And come last is *Raymon Anthony Doane* with **11,606** (**3.1%** of total votes
 ## Election-Audit Summary:
 The method using in the election audit can be modified and use for future election. This Python code can run multiple candidates, since the code was written flexible that no limit to the number of candidates in the poll. The code can run and find different candidates name and pull the vote count from the entire data set.
 
-![image](https://user-images.githubusercontent.com/114631804/205465947-739b2249-9f31-4c4c-8b23-271a651dcf10.png)
-
+![image](https://user-images.githubusercontent.com/114631804/205465988-1e39f047-34a9-45df-aae2-493e8940294c.png)
 
 This program can also run other reports based on the metrics provided. For example, instead of county, if the Zip Codes provided, we can run the report of vote count based on this information as well.
 
-![image](https://user-images.githubusercontent.com/114631804/205465988-1e39f047-34a9-45df-aae2-493e8940294c.png)
+![image](https://user-images.githubusercontent.com/114631804/205465947-739b2249-9f31-4c4c-8b23-271a651dcf10.png)
+
+
 
